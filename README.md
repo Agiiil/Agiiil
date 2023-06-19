@@ -38,13 +38,6 @@
     ·
     <a href="https://github.com/anuraghazra/github-readme-stats/discussions">Ask Question</a>
   </p>
-  
-Are you considering supporting the project by donating? Please DO NOT!!
-
-Instead, Help India fight the second deadly wave of COVID-19.
-Thousands of people are dying in India because of a lack of Oxygen & also COVID-related infrastructure.
-
-Visit <https://indiafightscorona.giveindia.org> and make a small donation to help us fight COVID and overcome this crisis. A small donation goes a long way. :heart:
 
 </p>
 
